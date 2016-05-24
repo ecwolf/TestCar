@@ -5,6 +5,6 @@ TestCar
 
 This is a GIT Test:
 
--A.
--B.
--C.
+- A
+- B
+- C
