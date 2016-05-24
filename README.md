@@ -9,3 +9,12 @@ This is a GIT Test, performed in class:
 - B
 - C
 - D
+
+#Target 2:
+
+Adding a second part fot the test
+
+- D
+- E
+- F
+
